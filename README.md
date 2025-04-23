@@ -74,10 +74,10 @@ endmodule
 
 ```
 
- Developed by:  Thajesh K
+ Developed by: Sujiith S
  
  
- RegisterNumber:212223230229
+ RegisterNumber:24012036
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
